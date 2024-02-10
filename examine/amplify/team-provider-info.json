@@ -10,6 +10,20 @@
       "StackName": "amplify-examine-dev-211817",
       "StackId": "arn:aws:cloudformation:us-east-1:655786169622:stack/amplify-examine-dev-211817/a78882d0-c7ba-11ee-b3ca-0ea4f41fe379",
       "AmplifyAppId": "d3gh2xrze1qd62"
+    },
+    "categories": {
+      "function": {
+        "plaidinfoapi": {
+          "plaidClientId": "65c642bc8dac21001c208259",
+          "plaidKeySandbox": "e5a3a8709147779b9715f0e89400e8",
+          "plaidKeyDev": "9b9e17ef03e91a138b836d4af6fa7c"
+        },
+        "pyplaidinfoapi": {
+          "plaidClientId": "65c642bc8dac21001c208259",
+          "plaidKeySandbox": "9b9e17ef03e91a138b836d4af6fa7c",
+          "plaidKeyDev": "e5a3a8709147779b9715f0e89400e8"
+        }
+      }
     }
   }
 }

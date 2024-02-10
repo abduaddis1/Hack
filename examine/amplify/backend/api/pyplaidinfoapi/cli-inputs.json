@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/pyplaid/info": {
+      "name": "/pyplaid/info",
+      "lambdaFunction": "pyplaidinfoapi",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}

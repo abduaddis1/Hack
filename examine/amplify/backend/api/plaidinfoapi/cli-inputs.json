@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/plaid/info": {
+      "name": "/plaid/info",
+      "lambdaFunction": "plaidinfoapi",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
