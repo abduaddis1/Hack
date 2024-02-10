@@ -16,13 +16,21 @@
         "plaidinfoapi": {
           "plaidClientId": "65c642bc8dac21001c208259",
           "plaidKeySandbox": "e5a3a8709147779b9715f0e89400e8",
-          "plaidKeyDev": "9b9e17ef03e91a138b836d4af6fa7c"
+          "plaidKeyDev": "9b9e17ef03e91a138b836d4af6fa7c",
+          "deploymentBucketName": "amplify-examine-dev-211817-deployment",
+          "s3Key": "amplify-builds/plaidinfoapi-756e704e30387161554f-build.zip"
         },
         "pyplaidinfoapi": {
           "plaidClientId": "65c642bc8dac21001c208259",
           "plaidKeySandbox": "9b9e17ef03e91a138b836d4af6fa7c",
-          "plaidKeyDev": "e5a3a8709147779b9715f0e89400e8"
+          "plaidKeyDev": "e5a3a8709147779b9715f0e89400e8",
+          "deploymentBucketName": "amplify-examine-dev-211817-deployment",
+          "s3Key": "amplify-builds/pyplaidinfoapi-476a4b46306b4c723779-build.zip"
         }
+      },
+      "api": {
+        "plaidinfoapi": {},
+        "pyplaidinfoapi": {}
       }
     }
   }

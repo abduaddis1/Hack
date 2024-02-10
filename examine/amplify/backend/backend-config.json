@@ -44,6 +44,14 @@
     }
   },
   "parameters": {
+    "AMPLIFY_function_plaidinfoapi_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "plaidinfoapi"
+        }
+      ]
+    },
     "AMPLIFY_function_plaidinfoapi_plaidClientId": {
       "usedBy": [
         {
@@ -68,6 +76,22 @@
         }
       ]
     },
+    "AMPLIFY_function_plaidinfoapi_s3Key": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "plaidinfoapi"
+        }
+      ]
+    },
+    "AMPLIFY_function_pyplaidinfoapi_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "pyplaidinfoapi"
+        }
+      ]
+    },
     "AMPLIFY_function_pyplaidinfoapi_plaidClientId": {
       "usedBy": [
         {
@@ -85,6 +109,14 @@
       ]
     },
     "AMPLIFY_function_pyplaidinfoapi_plaidKeySandbox": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "pyplaidinfoapi"
+        }
+      ]
+    },
+    "AMPLIFY_function_pyplaidinfoapi_s3Key": {
       "usedBy": [
         {
           "category": "function",
