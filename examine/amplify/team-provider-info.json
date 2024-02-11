@@ -25,15 +25,12 @@
           "plaidKeySandbox": "9b9e17ef03e91a138b836d4af6fa7c",
           "plaidKeyDev": "e5a3a8709147779b9715f0e89400e8",
           "deploymentBucketName": "amplify-examine-dev-211817-deployment",
-          "s3Key": "amplify-builds/pyplaidinfoapi-59485970513364666b54-build.zip"
+          "s3Key": "amplify-builds/pyplaidinfoapi-714b3153727151514b4c-build.zip"
         }
       },
       "api": {
         "plaidinfoapi": {},
         "pyplaidinfoapi": {}
-      },
-      "auth": {
-        "examinec3e111a3": {}
       }
     }
   }

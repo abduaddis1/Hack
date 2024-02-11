@@ -1,6 +1,7 @@
 import Image from "next/image";
 import styles from "./page.module.css";
 
+
 export default function Home() {
   return (
     <main className={styles.main}>
@@ -61,7 +62,7 @@ export default function Home() {
           <h2>
             Learn <span>-&gt;</span>
           </h2>
-          <p>Learn about Next.js in an interactive course with&nbsp;quizzes!</p>
+          <p>Learn about Next.js iKDSLFJSDLn an interactive course with&nbsp;quizzes!</p>
         </a>
 
         <a
